@@ -1,0 +1,7 @@
+U5. T1. Trabajar con dplyr
+
+Con el archivo de datos tarjetas_black.RData obtener una tabla con los diez comercios donde más dinero se ha gastado en total.
+
+La entrega por parte del alumnado consistirá en el script necesario para la obtención de la tabla, usando las órdenes adecuadas del paquete dplyr y encadenado éstas mediante pipes.
+
+En el caso de que sea necesario aclarar algo dentro del script, se pueden añadir los comentarios que se estimen oportunos.

@@ -1,0 +1,8 @@
+Manual online de RMarkdown
+https://bookdown.org/yihui/rmarkdown/
+
+Manual online de ggplot2
+https://ggplot2-book.org/
+
+Manual online de dplyr
+https://dplyr.tidyverse.org/

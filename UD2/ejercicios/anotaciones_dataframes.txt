@@ -1,0 +1,3 @@
+Crear un factor en el data frame usando una sola línea de código:
+
+muestra$fsexo<-factor(muestra$sexo,levels=c('H','M'))

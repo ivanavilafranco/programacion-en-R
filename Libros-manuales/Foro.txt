@@ -1,0 +1,52 @@
+JOSE ANTONIO MARIN MOYANO - sábado, 7 de mayo de 2022, 00:22
+
+Con el permiso de Juan de Dios, os comento algunos paquetes y materiales que a mi me han resultado útiles, y pueden ser interesantes:
+
+Paquete INEBASER: Creado como proyecto de carrera en la Universidad de La Laguna (Canarias) como interfaz para la extracción de datos del INE
+
+https://github.com/oddworldng/INEbaseR
+
+Libro "R for data science", de Hadley Wickham. Accesible en linea y también en papel. Para mi ha sido un punto de inflexión ... y está creado integramente con RMarkDown 😀
+
+Aquí: https://r4ds.had.co.nz/ y en español: https://es.r4ds.hadley.nz/. Y por supuesto en papel !!
+
+Para mi R tiene un potencial tremendo, os indico dos de mis favoritas: 
+
+Leaflet - Representación de datos en mapas tanto estáticos como dinámicos ( https://rstudio.github.io/leaflet/ ). Para mi es fundamental ya que utilizo muchísimos datos espaciales
+
+Shiny - Creación de aplicaciones específicas sobre los datos ... aquí ya entra lo que se os ocurra ... he empezado a trastear hace poco y da "vértigo" ( https://shiny.rstudio.com/ )
+
+---
+
+JUAN DE DIOS RAMOS POYATOS - jueves, 21 de abril de 2022, 22:21
+
+En la sesión online de ayer, os comenté algunas páginas web que os pueden ser de interés en algunas ocasiones.
+
+Os dejo aquí los enlaces que vimos.
+
+# Libros en inglés de temáticas variadas de R
+https://bookdown.org/
+
+# Acceso a los archivos de instalación de los paquetes
+https://cran.r-project.org/web/packages/index.html
+
+# Acceso a los archivos de paquetes antiguos
+https://cran.r-project.org/src/contrib/Archive
+
+# Enlaces a las instalaciones de versiones antiguas de R
+https://cran.r-project.org/bin/windows/base/old/
+
+# Enlaces a las instalaciones de versiones antiguas de RStudio
+https://www.rstudio.com/products/rstudio/older-versions/
+
+# Enlaces para la depuración de código en R
+
+En español
+https://mauricioanderson.com/curso-r-debugging/
+https://www.datanalytics.com/2011/10/26/herramientas-de-depuracion-en-r/
+
+En  inglés
+https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-the-RStudio-IDE
+
+Libro de programación en R. En el apéndice E del libro viene un apartado sobre depuración
+https://rstudio-education.github.io/hopr/
